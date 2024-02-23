@@ -15,11 +15,14 @@ contributes:
       
       # Document styling
       geometry:
+        - paper=a4paper # change papersize to A4 
         - top=10pc     # 10p0
         - bottom=10pc  # 10p0
         - left=11pc    # 11p0
         - right=11pc   # 11p0
         - heightrounded
+      typarea:
+        - DIV=9
       
       # Citations and links
       colorlinks: true
